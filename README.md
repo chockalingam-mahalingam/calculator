@@ -1,4 +1,4 @@
-Calculator.js: a node.js Demonstration Project
+Calculator.js: a node.js Demonstration Project [![Build Status](https://dev.azure.com/CM-AZ400/Setup%20your%20Azure%20Pipelines%20project/_apis/build/status/chockalingam-mahalingam.calculator?branchName=master)](https://dev.azure.com/CM-AZ400/Setup%20your%20Azure%20Pipelines%20project/_build/latest?definitionId=11&branchName=master)
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
